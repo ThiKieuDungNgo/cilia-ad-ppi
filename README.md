@@ -7,9 +7,7 @@ The study explores the role of ciliary genes in Alzheimer's Disease (AD) progres
 - [Overview](#overview)
 - [Data Sources](#data-sources)
 - [Code Description](#code-description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
+  
 
   ## Overview
   The goal of this study is to investigate the contribution of ciliary genes to Alzheimer's disease, with a specific focus on:
@@ -34,4 +32,5 @@ The study explores the role of ciliary genes in Alzheimer's Disease (AD) progres
   - Interaction analysis: Known and novel interactors of ciliary genes are identified using PPI datasets
   - Novel interaction prediction: A A Random Forest model predicts novel PPIs based on known datasets
  
-  2. 
+
+
