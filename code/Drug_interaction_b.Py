@@ -4,23 +4,23 @@ import pandas as pd
 
 
 datasets = [
-    {'expression': r'C:\Users\salab\Desktop\UCI_project\PROJECT\GSE53987\GSE53987_gene_Final.csv',
-     'metadata': r'C:\Users\salab\Desktop\UCI_project\PROJECT\GSE53987\GSE53987_Metadata.csv',
+    {'expression': r'GSE53987_gene_Final.csv',
+     'metadata': r'GSE53987_Metadata.csv',
      'disease_label': 'bipolar disorder',
      'control_label': 'control'},
     
-    {'expression': r'C:\Users\salab\Desktop\UCI_project\PROJECT\GSE48350\GSE48350_gene_Final.csv',
-     'metadata': r'C:\Users\salab\Desktop\UCI_project\PROJECT\GSE48350\GSE48350_Metadata.csv',
+    {'expression': r'GSE48350_gene_Final.csv',
+     'metadata': r'GSE48350_Metadata.csv',
      'disease_label': 'disease',
      'control_label': 'control'},
     
-    {'expression': r'C:\Users\salab\Desktop\UCI_project\PROJECT\GSE29378\GSE29378_gene_Final.csv',
-     'metadata': r'C:\Users\salab\Desktop\UCI_project\PROJECT\GSE29378\GSE29378_Metadata1.csv',
+    {'expression': r'GSE29378_gene_Final.csv',
+     'metadata': r'GSE29378_Metadata1.csv',
      'disease_label': 'Disease',
      'control_label': 'Control'},
     
-    {'expression': r'C:\Users\salab\Desktop\UCI_project\PROJECT\GSE28146\GSE28146_gene_Final.csv',
-     'metadata': r'C:\Users\salab\Desktop\UCI_project\PROJECT\GSE28146\GSE28146_Metadata.csv',
+    {'expression': r'GSE28146_gene_Final.csv',
+     'metadata': r'GSE28146_Metadata.csv',
      'disease_label': 'Disease',
      'control_label': 'Control'}
 ]
@@ -206,8 +206,6 @@ gene_drug_interaction_path = r'GeneDrug_interactions.csv'
 gene_drug_df = pd.read_csv(gene_drug_interaction_path)
 
 nervous_system_drug_interactions = gene_drug_df[gene_drug_df['Gene_name'].isin(key_genes)]
-
-
 
 key_genes_path = r'Significant_Nervous_System_Pathways.csv'
 key_genes_df = pd.read_csv(key_genes_path)
