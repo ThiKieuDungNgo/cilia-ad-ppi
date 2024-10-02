@@ -5,7 +5,7 @@ library(dplyr)
 library(stringr)
 
 
-file_path <- "C:/Users/salab/Desktop/UCI_project/PROJECT/Transcriptome/Combined_Expression_Gender.csv"
+file_path <- "Combined_Expression_Gender.csv"
 df <- read.csv(file_path)
 
 df$Group <- trimws(df$Group)
