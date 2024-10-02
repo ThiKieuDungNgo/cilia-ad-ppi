@@ -1,26 +1,19 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Load the key genes in nervous system pathways
+
 key_genes_path = r'Significant_Nervous_System_Pathways.csv'
 key_genes_df = pd.read_csv(key_genes_path)
 
-# Extract unique genes from the geneID column
 key_genes = set(gene for gene_list in key_genes_df['geneID'] for gene in gene_list.split('/'))
 
-# Load the Gene-Drug interaction data
-gene_drug_interaction_path = r'C:\Users\salab\Desktop\UCI_project\PROJECT\GeneDrug_interactions.csv'
+gene_drug_interaction_path = r'GeneDrug_interactions.csv'
 gene_drug_df = pd.read_csv(gene_drug_interaction_path)
 
-# Filter for key genes in the nervous system pathways
 nervous_system_drug_interactions = gene_drug_df[gene_drug_df['Gene_name'].isin(key_genes)]
 
-# Further filter to include only approved drugs
 approved_drug_interactions = nervous_system_drug_interactions[nervous_system_drug_interactions['approved'] == True]
 
-# Display the filtered gene-drug interactions with approved drugs
-print("Filtered Gene-Drug interaction data with approved drugs:")
-print(approved_drug_interactions.head())
 
 non_cilia_df = non_cilia_df[non_cilia_df['approved'] == True]
 categorized_significant_pathways_df = categorized_significant_pathways_df[categorized_significant_pathways_df['approved'] == True]
