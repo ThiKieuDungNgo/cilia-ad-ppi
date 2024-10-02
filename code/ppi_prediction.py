@@ -1,3 +1,20 @@
+import pandas as pd
+import random
+import numpy as np
+import networkx as nx
+import matplotlib.pyplot as plt
+from sklearn.preprocessing import LabelEncoder
+from sklearn.model_selection import train_test_split, cross_val_score
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import classification_report, precision_recall_curve, auc
+
+cilia_genes_path = r'CiliaCarta.csv'
+ppis_path = r'BIOGRID_PPI.csv'
+alzheimers_genes_path = r'MONDO_0004975_GWAG.csv'
+geneage_human_path = r'geneage_human.csv'
+hedgehog_pathway_path = r'KEGG_HEDGEHOG_SIGNALING_PATHWAY.csv'
+neurogenesis_path = r'Neurogenenis.csv'
+
 
 cilia_genes_df = pd.read_csv(cilia_genes_path)
 ppis_df = pd.read_csv(ppis_path, dtype={30: str, 31: str, 32: str})
