@@ -1,0 +1,42 @@
+term,Description,GeneRatio,BgRatio,pvalue,p.adjust,qvalue,geneID,Count
+GO:0008022,protein C-terminus binding,4/77,189/18352,0.008220069,0.053855625,0.04356189,YWHAQ/CTNNB1/PCGF1/YWHAB,4
+GO:0030055,cell-substrate junction,6/76,423/19559,0.006039781,0.029496604,0.020403666,YWHAQ/CTNNB1/HSPA8/YWHAB/YWHAE/YWHAG,6
+GO:0090316,positive regulation of intracellular protein transport,8/76,182/18866,6.93022e-07,3.91429e-05,3.13143e-05,YWHAQ/HSP90AB1/KIF5B/PCM1/PCNT/YWHAB/YWHAE/YWHAG,8
+GO:0051204,protein insertion into mitochondrial membrane,5/76,45/18866,1.00011e-06,5.25918e-05,4.20735e-05,YWHAQ/HSP90AA1/YWHAB/YWHAE/YWHAG,5
+GO:0033157,regulation of intracellular protein transport,9/76,264/18866,1.1289e-06,5.73855e-05,4.59084e-05,YWHAQ/HSP90AB1/KIF5B/PARL/PCM1/PCNT/YWHAB/YWHAE/YWHAG,9
+GO:0051222,positive regulation of protein transport,10/76,354/18866,1.51549e-06,6.52987e-05,5.2239e-05,YWHAQ/HSP90AB1/KIF5B/PANX1/PARD6A/PCM1/PCNT/YWHAB/YWHAE/YWHAG,10
+GO:0090151,establishment of protein localization to mitochondrial membrane,5/76,49/18866,1.54148e-06,6.52987e-05,5.2239e-05,YWHAQ/HSP90AA1/YWHAB/YWHAE/YWHAG,5
+GO:1904951,positive regulation of establishment of protein localization,10/76,370/18866,2.25254e-06,9.19363e-05,7.3549e-05,YWHAQ/HSP90AB1/KIF5B/PANX1/PARD6A/PCM1/PCNT/YWHAB/YWHAE/YWHAG,10
+GO:0032388,positive regulation of intracellular transport,8/76,222/18866,3.07274e-06,0.000117148,9.37186e-05,YWHAQ/HSP90AB1/KIF5B/PCM1/PCNT/YWHAB/YWHAE/YWHAG,8
+GO:1900739,regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway,4/76,26/18866,3.39855e-06,0.00012053,9.6424e-05,YWHAQ/YWHAB/YWHAE/YWHAG,4
+GO:1900740,positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway,4/76,26/18866,3.39855e-06,0.00012053,9.6424e-05,YWHAQ/YWHAB/YWHAE/YWHAG,4
+GO:0001844,protein insertion into mitochondrial membrane involved in apoptotic signaling pathway,4/76,30/18866,6.15432e-06,0.000208563,0.00016685,YWHAQ/YWHAB/YWHAE/YWHAG,4
+GO:0051205,protein insertion into membrane,5/76,65/18866,6.35049e-06,0.000210533,0.000168426,YWHAQ/HSP90AA1/YWHAB/YWHAE/YWHAG,5
+GO:1903829,positive regulation of cellular protein localization,9/76,338/18866,8.47955e-06,0.000258626,0.000206901,YWHAQ/HSP90AB1/KIF5B/PARD6A/PCM1/PCNT/YWHAB/YWHAE/YWHAG,9
+GO:1903747,regulation of establishment of protein localization to mitochondrion,5/76,73/18866,1.12624e-05,0.000318057,0.000254446,YWHAQ/PARL/YWHAB/YWHAE/YWHAG,5
+GO:1901030,positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway,4/76,35/18866,1.15804e-05,0.000321093,0.000256875,YWHAQ/YWHAB/YWHAE/YWHAG,4
+GO:0032386,regulation of intracellular transport,9/76,358/18866,1.34203e-05,0.000348034,0.000278428,YWHAQ/HSP90AB1/KIF5B/PARL/PCM1/PCNT/YWHAB/YWHAE/YWHAG,9
+GO:0072655,establishment of protein localization to mitochondrion,6/76,140/18866,2.13999e-05,0.000518014,0.000414411,YWHAQ/HSP90AA1/PARL/YWHAB/YWHAE/YWHAG,6
+GO:0070585,protein localization to mitochondrion,6/76,144/18866,2.50974e-05,0.000571246,0.000456997,YWHAQ/HSP90AA1/PARL/YWHAB/YWHAE/YWHAG,6
+GO:1901028,regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway,4/76,45/18866,3.19635e-05,0.000686539,0.000549231,YWHAQ/YWHAB/YWHAE/YWHAG,4
+GO:0030901,midbrain development,5/76,91/18866,3.29588e-05,0.000698087,0.000558469,YWHAQ/CSNK1D/CSNK1E/CTNNB1/YWHAE,5
+GO:0097345,mitochondrial outer membrane permeabilization,4/76,55/18866,7.09702e-05,0.001405579,0.001124463,YWHAQ/YWHAB/YWHAE/YWHAG,4
+GO:1903749,positive regulation of establishment of protein localization to mitochondrion,4/76,58/18866,8.74837e-05,0.001667658,0.001334126,YWHAQ/YWHAB/YWHAE/YWHAG,4
+GO:1902110,positive regulation of mitochondrial membrane permeability involved in apoptotic process,4/76,61/18866,0.000106627,0.001983009,0.001586408,YWHAQ/YWHAB/YWHAE/YWHAG,4
+GO:0010822,positive regulation of mitochondrion organization,5/76,119/18866,0.000118589,0.002170345,0.001736276,YWHAQ/HTT/YWHAB/YWHAE/YWHAG,5
+GO:0010821,regulation of mitochondrion organization,6/76,191/18866,0.000120853,0.002170345,0.001736276,YWHAQ/HTT/PARL/YWHAB/YWHAE/YWHAG,6
+GO:1902686,mitochondrial outer membrane permeabilization involved in programmed cell death,4/76,63/18866,0.00012097,0.002170345,0.001736276,YWHAQ/YWHAB/YWHAE/YWHAG,4
+GO:0035794,positive regulation of mitochondrial membrane permeability,4/76,65/18866,0.000136662,0.002368287,0.00189463,YWHAQ/YWHAB/YWHAE/YWHAG,4
+GO:1902108,regulation of mitochondrial membrane permeability involved in apoptotic process,4/76,66/18866,0.000145037,0.002457568,0.001966055,YWHAQ/YWHAB/YWHAE/YWHAG,4
+GO:0008637,apoptotic mitochondrial changes,5/76,125/18866,0.000149457,0.002504629,0.002003703,YWHAQ/PARL/YWHAB/YWHAE/YWHAG,5
+GO:1905710,positive regulation of membrane permeability,4/76,67/18866,0.000153777,0.002549021,0.002039217,YWHAQ/YWHAB/YWHAE/YWHAG,4
+GO:1905477,positive regulation of protein localization to membrane,5/76,127/18866,0.000161002,0.002640086,0.002112068,YWHAQ/KIF5B/YWHAB/YWHAE/YWHAG,5
+GO:0046902,regulation of mitochondrial membrane permeability,4/76,77/18866,0.000263374,0.003976681,0.003181345,YWHAQ/YWHAB/YWHAE/YWHAG,4
+GO:0007006,mitochondrial membrane organization,5/76,142/18866,0.000270777,0.004048386,0.003238709,YWHAQ/HSP90AA1/YWHAB/YWHAE/YWHAG,5
+GO:0090559,regulation of membrane permeability,4/76,88/18866,0.000438918,0.00607704,0.004861632,YWHAQ/YWHAB/YWHAE/YWHAG,4
+GO:0006839,mitochondrial transport,6/76,271/18866,0.000783531,0.010201266,0.008161013,YWHAQ/HSP90AA1/PARL/YWHAB/YWHAE/YWHAG,6
+GO:1905475,regulation of protein localization to membrane,5/76,195/18866,0.001143119,0.013307298,0.010645838,YWHAQ/KIF5B/YWHAB/YWHAE/YWHAG,5
+GO:2001233,regulation of apoptotic signaling pathway,7/76,413/18866,0.001366274,0.015098313,0.01207865,YWHAQ/CTNNB1/HTT/PARL/YWHAB/YWHAE/YWHAG,7
+GO:0090150,establishment of protein localization to membrane,6/76,342/18866,0.002558809,0.025175381,0.020140305,YWHAQ/HSP90AA1/PARD3/YWHAB/YWHAE/YWHAG,6
+GO:2001235,positive regulation of apoptotic signaling pathway,4/76,183/18866,0.006386473,0.052931364,0.042345091,YWHAQ/YWHAB/YWHAE/YWHAG,4
+GO:0048857,neural nucleus development,2/76,62/18866,0.025916938,0.155513843,0.124411074,YWHAQ/YWHAE,2
