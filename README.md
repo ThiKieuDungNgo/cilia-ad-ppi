@@ -36,7 +36,8 @@ The study explores the role of ciliary genes in Alzheimer's Disease (AD) progres
   3. Comparison of Interaction Scores between Cilia and Non-Cilia Genes with Target Drugs
   4. Gene Expression Analysis Based on Age 
   5. Gene Expression Analysis Based on Gender
-  Note: Data handling and cleaning code is excluded from this file
+
+Note: Data handling and cleaning code is excluded from this file
   ## LICENSE
   MIT License
 
