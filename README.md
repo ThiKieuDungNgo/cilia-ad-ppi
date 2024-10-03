@@ -7,6 +7,8 @@ The study explores the role of ciliary genes in Alzheimer's Disease (AD) progres
 - [Overview](#overview)
 - [Data Sources](#data-sources)
 - [Code Description](#code-description)
+- [LICENSE](#license)
+  
   
 
   ## Overview
@@ -24,13 +26,34 @@ The study explores the role of ciliary genes in Alzheimer's Disease (AD) progres
           - GSE48350
           - GSE29378
           - GSE28146
-          -  GSE53987 (Schizophrenia dataset for comparison).
+          - GSE53987 (Schizophrenia dataset for comparison).
   ## Code Description
   1. PPI Prediction Script
-  The main script (ppi_prediction.py) includings the following steps
-  - Load ciliary gene data: Data is cleaned processed from from the source files
-  - Interaction analysis: Known and novel interactors of ciliary genes are identified using PPI datasets
-  - Novel interaction prediction: A A Random Forest model predicts novel PPIs based on known datasets
- 
+  2. Protein and Drug Interaction 
+  3. Comparison of Interaction Scores between Cilia and Non-Cilia Genes with Target Drugs
+  4. Gene Expression Analysis Based on Age 
+  5. Gene Expression Analysis Based on Gender
+  Note: Data handling and cleaning code is excluded from this file
+  ## LICENSE
+  MIT License
 
+Copyright (c) [2024] [Thi Ngo]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
