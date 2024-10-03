@@ -27,7 +27,7 @@ The study explores the role of ciliary genes in Alzheimer's Disease (AD) progres
           - GSE29378
           - GSE28146
           - GSE53987 (Schizophrenia dataset for comparison).
-    - In addition to the primary data, I have also generated new datasets through various data handling and processing steps, such as combining,
+  In addition to the primary data, I have also generated new datasets through various data handling and processing steps, such as combining,
   filtering, and transforming the original data. These processed datasets are uploaded separately and reflect the data used in the final analysis.
   ## Code Description
   1. PPI Prediction Script
