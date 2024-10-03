@@ -1,6 +1,6 @@
 # cilia-gene
 # Analysis of Ciliary Genes and Their Role in Alzheimer's Disease
-This repository contains the code and analysis for the paper "Analysis of Ciliary Genes Reveals Novel Protein-Protein InteractionsTherapeutic Targets in Alzheimer's Disease". 
+This repository contains the code and analysis for the paper "Analysis of Ciliary Genes Reveals Novel Protein-Protein Interactions Therapeutic Targets in Alzheimer's Disease". 
 The study explores the role of ciliary genes in Alzheimer's Disease (AD) progression and identifies potential therapeutic targets by predicting novel protein-protein interactions (PPIs) and performing gene-drug interaction analysis.
 
 ## Table of Contents
