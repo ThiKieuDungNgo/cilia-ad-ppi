@@ -1,0 +1,82 @@
+shared name,name,pValue_GO Term Enrichment,adjustedPValue_GO Term Enrichment,xx_GO Term Enrichment,X_GO Term Enrichment,nn_GO Term Enrichment,N_GO Term Enrichment,description_GO Term Enrichment,nodeFIllColor_GO Term Enrichment,node size,nodetype,nodeFontSize
+10568,10568,1.45E-03,3.02E-02,1,9,1,6207,regulation of budding cell apical bud growth,1.51938442,2,ellipse,14
+10569,10569,1.45E-03,3.02E-02,1,9,1,6207,regulation of double-strand break repair via homologous recombination,1.51938442,2,ellipse,14
+10570,10570,1.45E-03,3.02E-02,1,9,1,6207,regulation of filamentous growth,1.51938442,2,ellipse,14
+10571,10571,1.45E-03,3.02E-02,1,9,1,6207,positive regulation of DNA replication involved in S phase,1.51938442,2,ellipse,14
+10896,10896,1.45E-03,3.02E-02,1,9,1,6207,regulation of triglyceride catabolic process,1.51938442,2,ellipse,14
+10898,10898,1.45E-03,3.02E-02,1,9,1,6207,positive regulation of triglyceride catabolic process,1.51938442,2,ellipse,14
+32007,32007,1.45E-03,3.02E-02,1,9,1,6207,negative regulation of TOR signaling cascade,1.51938442,2,ellipse,14
+45930,45930,1.45E-03,3.02E-02,1,9,1,6207,negative regulation of mitotic cell cycle,1.51938442,2,ellipse,14
+50994,50994,1.45E-03,3.02E-02,1,9,1,6207,regulation of lipid catabolic process,1.51938442,2,ellipse,14
+50996,50996,1.45E-03,3.02E-02,1,9,1,6207,positive regulation of lipid catabolic process,1.51938442,2,ellipse,14
+51446,51446,1.45E-03,3.02E-02,1,9,1,6207,positive regulation of meiotic cell cycle,1.51938442,2,ellipse,14
+51447,51447,1.45E-03,3.02E-02,1,9,1,6207,negative regulation of meiotic cell cycle,1.51938442,2,ellipse,14
+90207,90207,1.45E-03,3.02E-02,1,9,1,6207,regulation of triglyceride metabolic process,1.51938442,2,ellipse,14
+90208,90208,1.45E-03,3.02E-02,1,9,1,6207,positive regulation of triglyceride metabolic process,1.51938442,2,ellipse,14
+60255,60255,4.31E-02,1.09E-01,4,9,1002,6207,regulation of macromolecule metabolic process,0.964153654,4,ellipse,14
+9894,9894,1.37E-01,2.27E-01,1,9,101,6207,regulation of catabolic process,0.643297866,2,ellipse,14
+10564,10564,1.40E-01,2.29E-01,1,9,103,6207,regulation of cell cycle process,0.639241111,2,ellipse,14
+31323,31323,4.93E-02,1.16E-01,4,9,1044,6207,regulation of cellular metabolic process,0.93560163,4,ellipse,14
+80090,80090,4.93E-02,1.16E-01,4,9,1044,6207,regulation of primary metabolic process,0.93560163,4,ellipse,14
+31331,31331,1.58E-02,9.26E-02,1,9,11,6207,positive regulation of cellular catabolic process,1.033523162,2,ellipse,14
+51302,51302,1.58E-02,9.26E-02,1,9,11,6207,regulation of cell division,1.033523162,2,ellipse,14
+19222,19222,6.08E-02,1.37E-01,4,9,1114,6207,regulation of metabolic process,0.864468004,4,ellipse,14
+23051,23051,1.69E-01,2.58E-01,1,9,126,6207,regulation of signaling process,0.588028605,2,ellipse,14
+9966,9966,1.69E-01,2.58E-01,1,9,126,6207,regulation of signal transduction,0.588028605,2,ellipse,14
+19216,19216,1.87E-02,9.26E-02,1,9,13,6207,regulation of lipid metabolic process,1.033523162,2,ellipse,14
+35467,35467,1.87E-02,9.26E-02,1,9,13,6207,negative regulation of signaling pathway,1.033523162,2,ellipse,14
+10646,10646,1.75E-01,2.64E-01,1,9,131,6207,regulation of cell communication,0.57768308,2,ellipse,14
+50794,50794,1.23E-01,2.10E-01,4,9,1399,6207,regulation of cellular process,0.676810305,4,ellipse,14
+80135,80135,2.01E-02,9.45E-02,1,9,14,6207,regulation of cellular response to stress,1.024591716,2,ellipse,14
+40008,40008,2.16E-02,9.45E-02,1,9,15,6207,regulation of growth,1.024591716,2,ellipse,14
+9896,9896,2.16E-02,9.45E-02,1,9,15,6207,positive regulation of catabolic process,1.024591716,2,ellipse,14
+50789,50789,1.63E-01,2.56E-01,4,9,1544,6207,regulation of biological process,0.591279609,4,ellipse,14
+80134,80134,2.30E-02,9.45E-02,1,9,16,6207,regulation of response to stress,1.024591716,2,ellipse,14
+15980,15980,1.66E-03,3.23E-02,3,9,176,6207,energy derivation by oxidation of organic compounds,1.490657484,3.464101615,ellipse,14
+65007,65007,2.45E-01,3.29E-01,4,9,1792,6207,biological regulation,0.483315628,4,ellipse,14
+23057,23057,2.58E-02,1.01E-01,1,9,18,6207,negative regulation of signaling process,0.997801187,2,ellipse,14
+9968,9968,2.58E-02,1.01E-01,1,9,18,6207,negative regulation of signal transduction,0.997801187,2,ellipse,14
+51726,51726,2.44E-01,3.29E-01,1,9,190,6207,regulation of cell cycle,0.483315628,2,ellipse,14
+45931,45931,2.90E-03,4.98E-02,1,9,2,6207,positive regulation of mitotic cell cycle,1.30295532,2,ellipse,14
+7116,7116,2.90E-03,4.98E-02,1,9,2,6207,regulation of cell budding,1.30295532,2,ellipse,14
+10648,10648,2.86E-02,1.03E-01,1,9,20,6207,negative regulation of cell communication,0.986463476,2,ellipse,14
+45935,45935,3.35E-02,1.03E-01,2,9,205,6207,"positive regulation of nucleobase, nucleoside, nucleotide and nucleic acid metabolic process",0.986463476,2.828427125,ellipse,14
+51173,51173,3.35E-02,1.03E-01,2,9,205,6207,positive regulation of nitrogen compound metabolic process,0.986463476,2.828427125,ellipse,14
+18,18,3.01E-02,1.03E-01,1,9,21,6207,regulation of DNA recombination,0.986463476,2,ellipse,14
+10557,10557,3.69E-02,1.03E-01,2,9,216,6207,positive regulation of macromolecule biosynthetic process,0.986463476,2.828427125,ellipse,14
+31328,31328,3.92E-02,1.05E-01,2,9,223,6207,positive regulation of cellular biosynthetic process,0.979178037,2.828427125,ellipse,14
+9891,9891,3.92E-02,1.05E-01,2,9,223,6207,positive regulation of biosynthetic process,0.979178037,2.828427125,ellipse,14
+90329,90329,3.29E-02,1.03E-01,1,9,23,6207,regulation of DNA-dependent DNA replication,0.986463476,2,ellipse,14
+10604,10604,4.48E-02,1.12E-01,2,9,240,6207,positive regulation of macromolecule metabolic process,0.951569092,2.828427125,ellipse,14
+31325,31325,4.75E-02,1.16E-01,2,9,248,6207,positive regulation of cellular metabolic process,0.93560163,2.828427125,ellipse,14
+48583,48583,3.57E-02,1.03E-01,1,9,25,6207,regulation of response to stimulus,0.986463476,2,ellipse,14
+9893,9893,4.86E-02,1.16E-01,2,9,251,6207,positive regulation of metabolic process,0.93560163,2.828427125,ellipse,14
+6091,6091,5.00E-03,5.84E-02,3,9,259,6207,generation of precursor metabolites and energy,1.233356644,3.464101615,ellipse,14
+48522,48522,5.88E-02,1.33E-01,2,9,279,6207,positive regulation of cellular process,0.875747099,2.828427125,ellipse,14
+48518,48518,6.50E-02,1.40E-01,2,9,295,6207,positive regulation of biological process,0.852819596,2.828427125,ellipse,14
+32006,32006,4.34E-03,5.29E-02,1,9,3,6207,regulation of TOR signaling cascade,1.27690636,2,ellipse,14
+33262,33262,4.34E-03,5.29E-02,1,9,3,6207,regulation of DNA replication involved in S phase,1.27690636,2,ellipse,14
+6282,6282,4.34E-03,5.29E-02,1,9,3,6207,regulation of DNA repair,1.27690636,2,ellipse,14
+45786,45786,4.27E-02,1.08E-01,1,9,30,6207,negative regulation of cell cycle,0.964940924,2,ellipse,14
+51445,51445,4.55E-02,1.13E-01,1,9,32,6207,regulation of meiotic cell cycle,0.948654589,2,ellipse,14
+48523,48523,8.65E-02,1.69E-01,2,9,347,6207,negative regulation of cellular process,0.770947112,2.828427125,ellipse,14
+44237,44237,8.46E-02,1.68E-01,8,9,3826,6207,cellular metabolic process,0.774934727,5.656854249,ellipse,14
+48519,48519,1.03E-01,1.87E-01,2,9,384,6207,negative regulation of biological process,0.728636779,2.828427125,ellipse,14
+8152,8152,1.16E-01,2.04E-01,8,9,4008,6207,metabolic process,0.691342416,5.656854249,ellipse,14
+6275,6275,6.21E-02,1.38E-01,1,9,44,6207,regulation of DNA replication,0.859087918,2,ellipse,14
+9987,9987,1.38E-01,2.27E-01,9,9,4981,6207,cellular process,0.643297866,6,ellipse,14
+33261,33261,8.67E-03,7.98E-02,1,9,6,6207,regulation of S phase,1.098039672,2,ellipse,14
+45834,45834,8.67E-03,7.98E-02,1,9,6,6207,positive regulation of lipid metabolic process,1.098039672,2,ellipse,14
+8150,8150,1,1,9,9,6207,6207,biological_process,0,6,ellipse,14
+45740,45740,1.01E-02,7.98E-02,1,9,7,6207,positive regulation of DNA replication,1.098039672,2,ellipse,14
+45787,45787,1.01E-02,7.98E-02,1,9,7,6207,positive regulation of cell cycle,1.098039672,2,ellipse,14
+51052,51052,1.01E-01,1.86E-01,1,9,73,6207,regulation of DNA metabolic process,0.731412977,2,ellipse,14
+19219,19219,1.68E-02,9.26E-02,4,9,758,6207,"regulation of nucleobase, nucleoside, nucleotide and nucleic acid metabolic process",1.033523162,4,ellipse,14
+51171,51171,1.69E-02,9.26E-02,4,9,760,6207,regulation of nitrogen compound metabolic process,1.033523162,4,ellipse,14
+31329,31329,1.10E-01,1.96E-01,1,9,80,6207,regulation of cellular catabolic process,0.707973782,2,ellipse,14
+7346,7346,1.19E-01,2.07E-01,1,9,87,6207,regulation of mitotic cell cycle,0.683014816,2,ellipse,14
+10556,10556,2.87E-02,1.03E-01,4,9,887,6207,regulation of macromolecule biosynthetic process,0.986463476,4,ellipse,14
+35466,35466,1.22E-01,2.10E-01,1,9,89,6207,regulation of signaling pathway,0.676810305,2,ellipse,14
+51054,51054,1.30E-02,9.26E-02,1,9,9,6207,positive regulation of DNA metabolic process,1.033523162,2,ellipse,14
+31326,31326,3.06E-02,1.03E-01,4,9,904,6207,regulation of cellular biosynthetic process,0.986463476,4,ellipse,14
+9889,9889,3.12E-02,1.03E-01,4,9,909,6207,regulation of biosynthetic process,0.986463476,4,ellipse,14
