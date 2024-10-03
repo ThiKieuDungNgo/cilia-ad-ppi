@@ -1,0 +1,64 @@
+Sample,Group,Subjectnumber,Brain_Region,Regioninhippocampus,Gender,Brainbank,Braak_Stage,plaquescore,diseaseduration(years),locationonchip
+GSM726083,Disease ,4147,hippocampus,CA3, Male , VA, NA,2, NA, A
+GSM726084,Control ,1385,hippocampus,CA3, Male , OHSU,2,1, NA, B
+GSM726085,Control ,3795,hippocampus,CA1, Female , VA, NA, NA, NA, C
+GSM726086,Control ,1761,hippocampus,CA1, Male , OHSU,1,1, NA, E
+GSM726087,Disease ,704,hippocampus,CA1, Male , OHSU,5,3,11, F
+GSM726088,Control ,1013,hippocampus,CA3, Male , OHSU,1,0, NA, G
+GSM726089,Control ,3740,hippocampus,CA1, Female , VA, NA, NA, NA, H
+GSM726090,Control ,1716,hippocampus,CA3, Male , OHSU,1,0, NA, I
+GSM726091,Disease ,4125,hippocampus,CA1, Female , VA, NA,3, NA, J
+GSM726092,Disease ,1440,hippocampus,CA3, Male , OHSU,5,2,8, K
+GSM726093,Disease ,4147,hippocampus,CA1, Male , VA, NA,2, NA, L
+GSM726094,Disease ,1388,hippocampus,CA1, Male , OHSU,6,3,8, A
+GSM726095,Disease ,1580,hippocampus,CA3, Male , OHSU,6,3,5, B
+GSM726096,Disease ,1167,hippocampus,CA3, Male , OHSU,5,3,8, C
+GSM726097,Control ,881,hippocampus,CA1, Male , OHSU,2,0, NA, D
+GSM726098,Disease ,1294,hippocampus,CA3, Female , OHSU,6,2,10, E
+GSM726099,Control ,1731,hippocampus,CA1, Female , OHSU,2,1, NA, F
+GSM726100,Control ,1064,hippocampus,CA1, Female , OHSU,1,0, NA, G
+GSM726101,Disease ,993,hippocampus,CA1, Male , OHSU,6,3,11, H
+GSM726102,Control ,1720,hippocampus,CA1, Male , OHSU,2,1, NA, I
+GSM726103,Control ,1720,hippocampus,CA3, Male , OHSU,2,1, NA, K
+GSM726104,Control ,962,hippocampus,CA3, Female , OHSU,1,1, NA, L
+GSM726105,Control ,588,hippocampus,CA1, Male , OHSU,2,1, NA, A
+GSM726106,Disease ,4155,hippocampus,CA3, Female , VA,5,2, NA, B
+GSM726107,Disease ,1294,hippocampus,CA1, Female , OHSU,6,2,10, C
+GSM726108,Disease ,4159,hippocampus,CA1, Female , VA,5,3, NA, E
+GSM726109,Control ,1376,hippocampus,CA1, Male , OHSU,2,1, NA, F
+GSM726110,Control ,862,hippocampus,CA3, Male , OHSU,1,0, NA, G
+GSM726111,Disease ,1380,hippocampus,CA1, Female , OHSU,6,3,9, I
+GSM726112,Control ,881,hippocampus,CA3, Male , OHSU,2,0, NA, J
+GSM726113,Control ,3795,hippocampus,CA3, Female , VA, NA, NA, NA, K
+GSM726114,Disease ,1673,hippocampus,CA3, Male , OHSU,5,2,10, L
+GSM726115,Disease ,1673,hippocampus,CA1, Male , OHSU,5,2,10, A
+GSM726116,Control ,962,hippocampus,CA1, Female , OHSU,1,1, NA, B
+GSM726117,Control ,1013,hippocampus,CA1, Male , OHSU,1,0, NA, C
+GSM726118,Disease ,1167,hippocampus,CA1, Male , OHSU,5,3,8, D
+GSM726119,Disease ,704,hippocampus,CA3, Male , OHSU,5,3,11, E
+GSM726120,Disease ,4155,hippocampus,CA1, Female , VA,5,2, NA, F
+GSM726121,Control ,3777,hippocampus,CA1, Male , VA, NA, NA, NA, G
+GSM726122,Disease ,827,hippocampus,CA3, Male , OHSU,5,3, NA, I
+GSM726123,Disease ,1388,hippocampus,CA3, Male , OHSU,6,3,8, J
+GSM726124,Control ,862,hippocampus,CA1, Male , OHSU,1,0, NA, A
+GSM726125,Control ,1376,hippocampus,CA3, Male , OHSU,2,1, NA, B
+GSM726126,Disease ,926,hippocampus,CA3, Female , OHSU,6,3,15, C
+GSM726127,Disease ,926,hippocampus,CA1, Female , OHSU,6,3,15, D
+GSM726128,Disease ,827,hippocampus,CA1, Male , OHSU,5,3, NA, E
+GSM726129,Disease ,4152,hippocampus,CA1, Female , VA,4,2, NA, F
+GSM726130,Control ,3912,hippocampus,CA1, Male , VA, NA, NA, NA, G
+GSM726131,Control ,1761,hippocampus,CA3, Male , OHSU,1,1, NA, H
+GSM726132,Control ,588,hippocampus,CA3, Male , OHSU,2,1, NA, I
+GSM726133,Control ,3777,hippocampus,CA3, Male , VA, NA, NA, NA, J
+GSM726134,Control ,1385,hippocampus,CA1, Male , OHSU,2,1, NA, K
+GSM726135,Disease ,1380,hippocampus,CA3, Female , OHSU,6,3,9, L
+GSM726136,Control ,3740,hippocampus,CA3, Female , VA, NA, NA, NA, A
+GSM726137,Control ,3912,hippocampus,CA3, Male , VA, NA, NA, NA, B
+GSM726138,Disease ,1440,hippocampus,CA1, Male , OHSU,5,2,8, C
+GSM726139,Control ,1716,hippocampus,CA1, Male , OHSU,1,0, NA, E
+GSM726140,Control ,1064,hippocampus,CA3, Female , OHSU,1,0, NA, F
+GSM726141,Disease ,4152,hippocampus,CA3, Female , VA,4,2, NA, G
+GSM726142,Disease ,4098,hippocampus,CA3, Female , VA,5,2, NA, H
+GSM726143,Disease ,4125,hippocampus,CA3, Female , VA, NA,3, NA, I
+GSM726144,Control ,1731,hippocampus,CA3, Female , OHSU,2,1, NA, K
+GSM726145,Disease ,4098,hippocampus,CA1, Female , VA,5,2, NA, L
