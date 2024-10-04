@@ -37,7 +37,7 @@ The study explores the role of ciliary genes in Alzheimer's Disease (AD) progres
   4. Gene Expression Analysis Based on Age 
   5. Gene Expression Analysis Based on Gender
 
-  Note: Data handling and cleaning code is excluded from this file
+  Note: Data handling, cleaning, normalization, and transformation code is excluded from this file
   ## LICENSE
   MIT License
 
